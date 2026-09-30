@@ -1,4 +1,5 @@
 # Muse 2 → OSC (ponte para PC)
+<img width="3840" height="2160" alt="muse_bridge_guia" src="https://github.com/user-attachments/assets/5b3b1c94-3ba4-44e0-a842-617de7b770d6" />
 
 Liga o Muse 2 diretamente ao PC e envia os dados por OSC **com os mesmos endereços do Mind Monitor**. Um patch de TouchDesigner que já recebe do Mind Monitor funciona sem alterações.
 
